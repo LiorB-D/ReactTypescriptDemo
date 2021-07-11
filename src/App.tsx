@@ -8,6 +8,9 @@ import ptData from './PTable.json'
   The elements are then loaded in the correct layout using a CSS grid.
   When an element is hovered over, information about the element will display.
 
+  Periodic Table courtesy of Bowserinator
+  https://github.com/Bowserinator/Periodic-Table-JSON 
+
   Happy Coding!
 */
 
